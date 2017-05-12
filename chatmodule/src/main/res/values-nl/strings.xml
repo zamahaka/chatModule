@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="message">Bericht</string>
+    <string name="copy">Kopiëren</string>
+    <string name="forward_to_support">Doorsturen naar de helpdesk</string>
+    <string name="app_name">ChatModule</string>
+    <string name="copied_message">Kopie van bericht</string>
+    <string name="forwarded_to_support">Doorsturen naar de helpdesk</string>
+    <string name="message_copied_to_clipboard">Bericht gekopiëerd naar klembord</string>
+    <string name="today">VANDAAG</string>
+    <string name="yesterday">GISTEREN</string>
+    <string name="unpublished">Niet gepubliceerd</string>
+    <string name="publish">Publiceren</string>
+    <string name="edit">Wijzigen</string>
+    <string name="file_not_sent">Verzending mislukt, probeer het opnieuw. Onze excuses voor ongemak.</string>
+    <string name="send">Verzenden</string>
+    <string name="cancel">Annuleer</string>
+</resources>

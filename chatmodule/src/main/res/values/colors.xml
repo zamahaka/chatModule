@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="image_sending_error">#FA1425</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">@android:color/darker_gray</color>
+    <color name="image_overlay">#B4ffffff</color>
+</resources>

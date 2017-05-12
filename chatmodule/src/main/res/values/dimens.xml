@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="chat_drawable_other_padding">6dp</dimen>
+    <dimen name="chat_image_padding">10dp</dimen>
+    <dimen name="chat_image_corner_radius">10dp</dimen>
+    <dimen name="chat_progressbar_size">72dp</dimen>
+</resources>

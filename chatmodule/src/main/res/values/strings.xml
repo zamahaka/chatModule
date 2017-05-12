@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ChatModule</string>
+    <string name="message">Message</string>
+    <string name="copy">Copy</string>
+    <string name="forward_to_support">Forward to Support</string>
+    <string name="copied_message">Copied message</string>
+    <string name="message_copied_to_clipboard">Message copied to clip board</string>
+    <string name="today">TODAY</string>
+    <string name="yesterday">YESTERDAY</string>
+    <string name="forwarded_to_support">Forwarded to Support</string>
+    <string name="unpublished">Unpublished</string>
+    <string name="publish">Publish</string>
+    <string name="edit">Edit</string>
+    <string name="file_not_sent">This file was not sent. Try again.</string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+</resources>
